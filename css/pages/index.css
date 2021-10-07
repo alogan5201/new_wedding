@@ -1,0 +1,106 @@
+/* -- custom css for file index.html -- */
+
+/* -- title -- */
+#title-o-1008 {
+	left: 3px;
+}
+
+/* -- block custom-block text-center block-strong inset -- */
+#obj-1137 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+
+/* -- fa rounded bg-success text-white fa-calendar-minus-o s-6 p-2 -- */
+#obj-1140 {
+	border: 0px;
+}
+
+/* -- fa text-white bg-primary p-2 rounded-circle f7-icons s-6 -- */
+#obj-1143 {
+	border: 0px solid;
+}
+
+/* -- fa rounded text-white p-2 f7-icons s-6 -- */
+#obj-1147 {
+	border: 0px;
+	 background-color: rgb(251, 64, 7);
+}
+
+/* -- fa text-white p-2 rounded-circle fa-shopping-basket s-6 -- */
+#obj-1150 {
+	border: 0px solid;
+	 background-color: rgb(253, 161, 47);
+}
+
+/* -- fa text-white f7-icons s-6 p-2 -- */
+#obj-1154 {
+	background-color: rgb(41, 41, 41);
+}
+
+/* -- fa text-white p-2 f7-icons s-6 -- */
+#obj-1157 {
+	background-color: rgb(251, 2, 254);
+}
+
+/* -- fa f7-icons -- */
+#icon-1739 {
+	font-size: 25px;
+}
+
+/* -- flexbox display-flex flex-row justify-content-space-between align-items-center flex-nowrap text-success -- */
+#obj-1489 {
+	height: 60px;
+}
+
+/* -- dbexpress-field bg-transparent -- */
+#div-1494 {
+	color: rgb(0, 0, 0);
+}
+
+/* -- fa f7-icons -- */
+#icon-1645 {
+	font-size: 30px;
+	 color: rgb(150, 150, 150);
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap -- */
+#flexbox-1159 {
+	position: absolute;
+	 bottom: 51px;
+	 right: 9px;
+	 z-index: 6;
+}
+
+/* -- flexbox display-flex flex-row justify-content-center align-items-center flex-nowrap -- */
+#obj-2048 {
+	position: absolute;
+	 bottom: 51px;
+	 right: 9px;
+	 z-index: 6;
+}
+
+/* -- fa f7-icons -- */
+#icon-1920 {
+	font-size: 25px;
+}
+
+/* -- flexbox display-flex flex-row justify-content-space-between align-items-center flex-nowrap text-success -- */
+#obj-1975 {
+	height: 60px;
+}
+
+/* -- block custom-block -- */
+#div-1979 {
+	border-top-width: 1px !important;
+	 border-top-style: dashed !important;
+	 border-top-color: transparent !important;
+	 border-bottom-width: 1px !important;
+	 border-bottom-style: dashed !important;
+	 border-bottom-color: transparent !important;
+}
+

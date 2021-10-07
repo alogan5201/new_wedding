@@ -1,0 +1,209 @@
+- Wampserver trace report -
+File created by Wampserver install
+[07-Oct-2021 20:24:32 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:24:32 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:24:32 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:24:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:24:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:24:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:24:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:24:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:24:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:24:32 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:24:32 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:24:32 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:24:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:24:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:24:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:24:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:24:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:24:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding-organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:26 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:28:26 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:26 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:26 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:28:26 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:28:26 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:28:26 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:26 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:26 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:26 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:26 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:26 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:26 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:28:26 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:28:26 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:26 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:26 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:26 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:32 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:28:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:32 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:28:32 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:32 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:28:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:28:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:28:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:28:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:38:27 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:38:27 UTC] PHP Stack trace:
+[07-Oct-2021 20:38:27 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:38:27 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:38:27 UTC] PHP Stack trace:
+[07-Oct-2021 20:38:27 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:38:27 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:38:27 UTC] PHP Stack trace:
+[07-Oct-2021 20:38:27 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:38:27 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:38:27 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:38:27 UTC] PHP Stack trace:
+[07-Oct-2021 20:38:27 UTC] PHP Stack trace:
+[07-Oct-2021 20:38:27 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:38:27 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:38:27 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:38:27 UTC] PHP Stack trace:
+[07-Oct-2021 20:38:27 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:39:50 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:39:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:39:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:39:50 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:39:50 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:39:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:39:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:39:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:39:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:39:50 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:39:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:39:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:39:50 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:39:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:39:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:39:50 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:39:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:39:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:40:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:40:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:40:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:40:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:40:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:40:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:42 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:40:42 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:42 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:40:42 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:40:42 UTC] PHP Stack trace:
+[07-Oct-2021 20:40:42 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:41:24 UTC] PHP Notice:  Undefined variable: displayerRequest in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.set.php on line 38
+[07-Oct-2021 20:41:24 UTC] PHP Stack trace:
+[07-Oct-2021 20:41:24 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.set.php:0
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:35 UTC] PHP Notice:  Undefined variable: rows in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 244
+[07-Oct-2021 20:44:35 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:35 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:38 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:44:38 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:38 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:38 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:44:38 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:38 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:38 UTC] PHP Notice:  Undefined variable: rows in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 244
+[07-Oct-2021 20:44:38 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:38 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:50 UTC] PHP Notice:  Undefined variable: displayerRequest in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.set.php on line 38
+[07-Oct-2021 20:44:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.set.php:0
+[07-Oct-2021 20:44:55 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:44:55 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:55 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:44:55 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:44:55 UTC] PHP Stack trace:
+[07-Oct-2021 20:44:55 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:41 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:50:41 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:41 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:44 UTC] PHP Notice:  Undefined variable: database in C:\wamp64\www\wedding_organizer\db\webservices\thorium.auth.get.php on line 14
+[07-Oct-2021 20:50:44 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:44 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.auth.get.php:0
+[07-Oct-2021 20:50:44 UTC] PHP Notice:  Undefined property: stdClass::$id in C:\wamp64\www\wedding_organizer\db\webservices\thorium.auth.get.php on line 28
+[07-Oct-2021 20:50:44 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:44 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.auth.get.php:0
+[07-Oct-2021 20:50:44 UTC] PHP Notice:  Undefined variable: anonymous in C:\wamp64\www\wedding_organizer\db\webservices\thorium.auth.get.php on line 30
+[07-Oct-2021 20:50:44 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:44 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.auth.get.php:0
+[07-Oct-2021 20:50:50 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:50:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:50 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:50:50 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:50 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:59 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:50:59 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:59 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:59 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:50:59 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:59 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:50:59 UTC] PHP Notice:  Undefined variable: rows in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 244
+[07-Oct-2021 20:50:59 UTC] PHP Stack trace:
+[07-Oct-2021 20:50:59 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:51:14 UTC] PHP Notice:  Undefined variable: displayerRequest in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.set.php on line 38
+[07-Oct-2021 20:51:14 UTC] PHP Stack trace:
+[07-Oct-2021 20:51:14 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.set.php:0
+[07-Oct-2021 20:51:18 UTC] PHP Notice:  Undefined variable: operator1 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 150
+[07-Oct-2021 20:51:18 UTC] PHP Stack trace:
+[07-Oct-2021 20:51:18 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0
+[07-Oct-2021 20:51:18 UTC] PHP Notice:  Undefined variable: operator2 in C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php on line 165
+[07-Oct-2021 20:51:18 UTC] PHP Stack trace:
+[07-Oct-2021 20:51:18 UTC] PHP   1. {main}() C:\wamp64\www\wedding_organizer\db\webservices\thorium.data.get.php:0

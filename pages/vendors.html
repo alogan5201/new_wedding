@@ -1,0 +1,183 @@
+<div id="page" class="page" data-name="vendors">
+  <div class="navbar">
+    <div class="navbar-bg"></div>
+    <div class="navbar-inner">
+      <div class="left sliding">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="if-not-md">Back</span>
+        </a>
+      </div>
+      <div class="title sliding">Vendors!!!</div>
+      <div class="right">
+        <a
+          class="link icon-only searchbar-enable"
+          data-searchbar=".searchbar-demo"
+        >
+          <i class="icon f7-icons if-not-md">search</i>
+          <i class="icon material-icons md-only">search</i>
+        </a>
+      </div>
+
+      <form class="searchbar searchbar-expandable searchbar-demo">
+        <div class="searchbar-inner">
+          <a href="#" class="disable-btn">
+            <i class="icon icon-back"></i>
+          </a>
+
+          <div class="searchbar-input-wrap">
+            <input
+              type="search"
+              placeholder="Search"
+              class="autocomplete-input"
+            />
+            <i class="searchbar-icon"></i>
+            <span class="input-clear-button"></span>
+          </div>
+          <span class="filter-btn"
+            ><i id="icon-1739" class="fa f7-icons">slider_horizontal_3</i></span
+          >
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="page-content" data-distance="">
+    <div class="list simple-list searchbar-not-found">
+      <ul>
+        <li>Nothing found</li>
+      </ul>
+    </div>
+    <input
+      type="text"
+      placeholder="Fruit"
+      style="display: none"
+      class="autocomplete-input"
+    />
+    <div
+      id="obj-2048"
+      class="
+        flexbox
+        display-flex
+        flex-row
+        justify-content-center
+        align-items-center
+        flex-nowrap
+      "
+    >
+      <a class="link" href="/new_vendor/"
+        ><i id="obj-2049" class="fa f7-icons s-7" data-icon="plus_circle_fill"
+          >plus_circle_fill</i
+        ></a
+      >
+    </div>
+
+    <div
+      id="repeater-1372"
+      class="dbexpress-virtual-list"
+      data-stored-action="1"
+    >
+      <div
+        id="virtual-list-repeater-1372"
+        class="list virtual-list searchbar-found dbexpress-virtual-list-content"
+        data-displaymode="1"
+        data-service="vendor_directory"
+        data-foreign-key=""
+        data-maxrows="0"
+        data-orderby=""
+        data-order-sort="asc"
+        data-infinite="false"
+        data-foreignkey-link=""
+        data-col-count="1"
+        data-col-count-tablet="1"
+        data-detail="vendor_detail"
+        data-filter-field=""
+        data-filter-operator=""
+        data-filter-value=""
+        data-filter-field2=""
+        data-filter-operator2=""
+        data-filter-value2=""
+        data-noresult=""
+      >
+        <div class="searchbar-backdrop"></div>
+        <li
+          id="template-virtual-list-repeater-1372"
+          class="item-link item-dbexpress templaterow"
+          data-uid="{{uid}}"
+          data-pk="{{pk}}"
+          data-index="{{dataindex}}"
+          data-template-height="218"
+        >
+          <div id="card-1641" class="card">
+            <div id="obj-1642" class="card-header"></div>
+            <div id="obj-1643" class="card-content card-content-padding">
+              <div
+                id="obj-1489"
+                class="
+                  flexbox
+                  display-flex
+                  flex-row
+                  justify-content-space-between
+                  align-items-center
+                  flex-nowrap
+                  text-success
+                "
+              >
+                <a
+                  id="button-1912"
+                  class="
+                    col
+                    dbexpress-action-button
+                    button button-raised button-outline button-round
+                  "
+                  role="button"
+                  data-action="delete"
+                  data-service="{{service}}"
+                  data-uid="{{uid}}"
+                  data-pk="{{pk}}"
+                  data-index="{{dataindex}}"
+                  data-message=""
+                ></a>
+                <div
+                  id="div-1487"
+                  class="dbexpress-field text-black"
+                  data-dbexpress-field="vendor_name"
+                  data-dbexpress-type="text"
+                >
+                  {{vendor_name}}
+                </div>
+                <div
+                  id="div-1494"
+                  class="dbexpress-field bg-transparent"
+                  data-dbexpress-field="vendor_initials"
+                  data-dbexpress-type="text"
+                >
+                  {{vendor_initials}}
+                </div>
+                <i id="icon-1645" class="fa f7-icons">chevron_right</i>
+              </div>
+            </div>
+            <div id="obj-1644" class="card-footer"></div>
+          </div>
+        </li>
+      </div>
+    </div>
+
+    <div id="obj-84006" class="card">
+      <div id="obj-11387" class="card-header">
+        <h4 id="obj-77725" class="h4 m-0 text-primary">
+          Card with DataList Inside<br />
+        </h4>
+      </div>
+      <div id="obj-96504" class="card-content card-content-padding">
+        <div id="obj-55926" class="item-content">
+          <div id="obj-47989" class="item-media">
+            <i id="obj-44105" class="fa fa-fw fa-adn"></i>
+          </div>
+          <div id="obj-48327" class="item-inner">
+            <div id="obj-56602" class="item-title">Item One</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
